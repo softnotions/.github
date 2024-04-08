@@ -39,15 +39,6 @@
   <img style='width:80%; margin-right: 10px;' src='https://github.com/softnotions/.github/assets/160224006/a3af11d3-c1b8-4fa0-be51-6aaf05bda2b8'/>
 </div>
 
-## Contact Information
-<address>
-  Softnotions Technologies Pvt Ltd<br>
-  Module B, 6th Floor, Bhavani Building, <br>
-  Technopark Phase-1, Karyavattom PO,<br>
-  Thiruvananthapuram, 695581,<br>
-  Phone Number:+916282652030
-</address>
-
 ## Softnotions Contribution Guidelines
 
 Thank you for considering contributing to Softnotions Technologies! We value your interest in improving our services and products. To ensure a smooth and effective collaboration, please review the following contribution guidelines:
@@ -108,6 +99,15 @@ By contributing to Softnotions, you agree to license your contributions under th
 
 We value and appreciate all contributions to Softnotions. Contributors will be acknowledged and credited for their efforts in our project documentation.
 Thank you for your interest in contributing to Softnotions! Your support helps us improve and grow our IT services. If you have any questions or need assistance, feel free to reach out to the project maintainers. Happy coding!
+
+## Contact Information
+<address>
+  Softnotions Technologies Pvt Ltd<br>
+  Module B, 6th Floor, Bhavani Building, <br>
+  Technopark Phase-1, Karyavattom PO,<br>
+  Thiruvananthapuram, 695581,<br>
+  Phone Number:+916282652030
+</address>
 
 
 
