@@ -61,7 +61,7 @@ Softnotions is committed to fostering an inclusive and welcoming community. We e
 We welcome contributions in various forms, including but not limited to:
 
 <ul>
-  <li>Bug fixes 1</li>
+  <li>Bug fixes </li>
   <li>Feature enhancements</li>
   <li>Performance optimizations</li>
   <li>Code refactoring</li>
