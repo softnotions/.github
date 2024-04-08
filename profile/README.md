@@ -1,7 +1,7 @@
 <div style='width:100%;display:flex;align-items: center;'>
   <img style='width:40%' src='https://github.com/softnotions/.github/assets/160224006/f95941d2-1549-4eff-92c5-18632dd99f6c'/>
 </div>
-<p><b>Sofnotions Technologies</b>  is an IT service and digital transformation company headquartered in India with branch office in US (California). As a mature international IT company, we specialize in developing custom software solutions, providing IT consulting, and offering IT outsourcing services.</p>
+<p><b>Sofnotions Technologies</b>  is an IT service and digital transformation company headquartered in India. As a mature international IT company, we specialize in developing custom software solutions, providing IT consulting, and offering IT outsourcing services.</p>
 
 ## IT Solutions
 
