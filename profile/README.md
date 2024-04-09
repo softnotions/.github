@@ -106,7 +106,8 @@ Thank you for your interest in contributing to Softnotions! Your support helps u
   Module B, 6th Floor, Bhavani Building, <br>
   Technopark Phase-1, Karyavattom PO,<br>
   Thiruvananthapuram, 695581,<br>
-  Phone Number:+916282652030
+  Phone Number:+916282652030,<br>
+  Email ID:sales@softnotions.com
 </address>
 
 
