@@ -16,48 +16,58 @@
 <div style='width:100%; display:flex; align-items: center;'>
   <br>
   <p><b> Front End </b></p>
-  <img style=' padding-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group.png'/>
+<!--   <img style=' padding-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group.png'/>
   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/react-native-1%201.png'/>
   <img style=' pdding-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/image%2033.png'/>
   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/image%2034.png'/>
   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Typescript_logo_2020%201.png'/>
-  <img style=' margin-leftt: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/CSS3_and_HTML5_logos_and_wordmarks%201.png'/>
+  <img style=' margin-leftt: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/CSS3_and_HTML5_logos_and_wordmarks%201.png'/> -->
+  <img src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/frontend.png'/>
 </div></br>
 <br>
 <div style='width:100%; display:flex; justify-content: space-between; align-items: center;'>
  <p><b> Backend </b></p>
-  <img style='margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Microsoft_.NET_logo%201.png'/>
+<!--   <img style='margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Microsoft_.NET_logo%201.png'/>
   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/PHP-logo%201.png'/>
-  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/java.png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/javaresize%20(1).png'/>
   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/2560px-Node.js_logo%201.png'/>
   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/NET_Core_Logo%202.png'/>
-  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/python-logo-inkscape%201.png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/python-logo-inkscape%201.png'/> -->
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/backend.png'/>
+  
 </div></br>
 <div style='width:100%; display:flex; justify-content: space-between; align-items: center;'>
   <br>
-  <img style='height: 60px; width:60px; margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/IOS_logo%201.png'/>
-  <img style='height: 60px; width:60px; margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Android_logo_2019_(stacked)%201.png'/>
-  <img style='height: 50px; width:110px; margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20(1).png'/>
-  <img style='height: 60px; width:110px; margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/flutterio-ar21%201.png'/>
-  <img style='height: 50px; width:60px; margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/React-icon%201.png'/>
-  <img style='height: 60px; width:110px; margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/1280px-Xamarin-logo%201.png'/>
-  <img style='height: 40px; width:120px; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20253.png'/>
+<!--   <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/IOS_logo%201.png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Android_logo_2019_(stacked)%201.png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20(1).png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/flutterio-ar21%201.png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/React-icon%201.png'/>
+  <img style=' margin-right: 20px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/1280px-Xamarin-logo%201.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20253.png'/> -->
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/applications.png'/>
 </div></br>
 <div style='width:100%; display:flex; justify-content: space-between; align-items: center;'>
   <br>
- <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/microsoft-sql-server-logo-svgrepo-com%201.png'/>
-  <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20256.png'/>
-  <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20255.png'/>
-  <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20276.png'/>
-  <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/aws-dynamodb-svgrepo-com%201.png'/>
-  <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20257.png'/>
-  <img style='height: 8%; width:8%; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20258.png'/>
+  <p><b> Database </b></p>
+<!--  <img style='margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/microsoft-sql-server-logo-svgrepo-com%201.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20256.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20255.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20276.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/aws-dynamodb-svgrepo-com%201.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20257.png'/>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/database.png'/> -->
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/database.png'/>
 </div></br>
 <div style='width:100%; display:flex; justify-content: space-between; align-items: center;'>
   <br>
-  <img style='height: 60px; width:60px;; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Vector.png'/>
-  <img style='height: 40px; width:90px;; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Isolation_Mode.png'/>
-  <img style='height: 50px; width:100px; margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Group%20255.png'/>
+  <p><b> Devops </b></p>
+  <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Devops.png'/>
+  <span style='float:right;'>
+  <p><b> Devops </b></p>
+
+   <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/single.png'/>
+  </span>
 </div></br>
 </div>
 
