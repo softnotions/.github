@@ -61,11 +61,11 @@
 </div></br>
 <div style='width:100%; display:flex; justify-content: space-between; align-items: center;'>
   <br>
-  <p><b> Devops </b></p>
+  <span>
+  <span> <p><b> Devops </b></p></span>
   <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/Devops.png'/>
-  <span style='float:right;'>
-  <p><b> Devops </b></p>
-
+    <br><br>
+  <p><b> Emerging </b></p>
    <img style=' margin-right: 10px;' src='https://raw.githubusercontent.com/softnotions/.github/main/GitIcons/single.png'/>
   </span>
 </div></br>
